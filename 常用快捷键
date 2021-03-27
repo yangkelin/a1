@@ -1,0 +1,48 @@
+1、 执行：alt + r
+2、 提示补全：alt + /
+3、 单行注释：ctrl + /8
+4、 多行注释：Ctrl + shift + /
+5、 向下复制一行：Ctrl + alt+ down
+6、 向下移动行：alt + down
+7、 向上移动行：alt + up
+9、 向下开始新的一行：shift + enter
+10、向上开始新的一行：Ctrl + shift +enter
+11、查看源码：Ctrl + 制定选中的结构  |  Ctrl + shift + t
+12、万能解错|生成返回值变量：alt + enter
+13、退回到前一个编辑的界面：alt + left
+14、进入到下一个编辑的界面：alt + right
+15、查看继承关系：F4
+16、格式化代码：Ctrl + S //用了google-java-format和save Action插件
+17、提示方法参数类型:Ctrl + alt + /
+18、复制代码：Ctrl + c
+19、撤销：Ctrl + Z
+20、反撤销：Ctrl + Y
+21、剪切：Ctrl + X
+22、粘贴：Ctrl + V
+23、保存：Ctrl + S
+24、全选：Ctrl + A
+25、选中数行，整体往后移动：tab
+26、选中数行，整体往前移动：shift + tab
+27、查看类的结构：Ctrl + O
+28、重构：修改变量名与方法名：alt + shift + R
+29、大写转小写/小写转大写：Ctrl + shift + Y
+30、生成构造器/get/set/toString：alt + shift + S
+31、查看文档说明：F2
+32、收起所有的方法：alt + shift + C
+33、打开所有方法：alt + shift + X
+34、打开代码所在的硬盘文件：Ctrl + shift + X
+35、生成try-catch等：alt + shift + z
+36、局部变量抽取为成员变量：alt + shift + F
+37、查找/替换（当前）：Ctrl + F
+38、查找全局：Ctrl + H
+39、查找文件：double shift
+40、查找类的继承结构图：Ctrl + shift + U
+41、查找方法的多层重写结构：Ctrl + Alt + H
+42、添加到收藏：Ctrl + Alt + F
+43、抽取方法：alt + shift + M //将一段代码抽取出来定义成方法
+44、打开最近修改的文件：Ctrl + E
+45、关闭当前打开的代码栏：Ctrl + W
+46、关闭打开的所有代码栏：Ctrl + shift + W
+47、快速搜索类中的错误：Ctrl + shift + Q
+48、选择要粘贴的内容：Ctrl + shift + V---多次复制语句，选择要粘贴的语句
+49、查找方法在哪里被调用：Ctrl + Shift + H
